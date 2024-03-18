@@ -8,3 +8,5 @@ First we are going to make step-by-step project of Krish Naik.
     `python -m venv .venv`
     `source .venv/bin/activate`
 1. We create `template.py`
+2. Modify `requirements.txt`
+2. Modify `setup.py` and use `pip install requirements.txt`
