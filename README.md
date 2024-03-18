@@ -11,3 +11,14 @@ First we are going to make step-by-step project of Krish Naik.
 2. Modify `requirements.txt`
 3. Modify `setup.py` and use `pip install requirements.txt`
 4. Modify `__init__.py` with logging configuration.
+5. At this point begins workflows:
+    a. Update config.yaml
+    b. Update schema.yaml
+    c. Update params.yaml
+    d. Update entity
+    e. Update the configuration manager in src config
+    f. Update the component
+    g. Update the pipeline
+    h. Update the main.py
+    i. Update the app.py
+    j. Update the dvc.yaml
