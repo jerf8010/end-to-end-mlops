@@ -1,0 +1,19 @@
+site_name: End-to-end
+repo_url: https://github.com/jerf8010/end-to-end-mlops
+nav:
+  - Home: index.md
+  - end-to-end:
+    - component: end-to-end/component.md
+    - config: end-to-end/config.md
+    - constants: end-to-end/constants.md
+    - entity: end-to-end/entity.md
+    - pipeline: end-to-end/pipeline.md
+    - utils: end-to-end/utils.md
+theme: readthedocs
+plugins:
+  - mkdocstrings:
+      handlers:
+        python:
+          path: [src]
+watch:
+  - .  # reload docs for any file changes

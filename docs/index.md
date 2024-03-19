@@ -23,7 +23,4 @@ First we are going to make step-by-step project of Krish Naik.
     i. Update the app.py
     j. Update the dvc.yaml
 
-`pip install mkdocs`
-`pip install 'mkdocstrings[python]`
-`python -m mkdocs new ` to initialize documentation.
-`python -m mkdocs serve` to serve.
+`python3 -m mkdocs new ` to initialize documentation.
