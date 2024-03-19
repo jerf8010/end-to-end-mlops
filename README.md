@@ -27,3 +27,5 @@ First we are going to make step-by-step project of Krish Naik.
 `pip install 'mkdocstrings[python]`
 `python -m mkdocs new ` to initialize documentation.
 `python -m mkdocs serve` to serve.
+`mkdocs gh-deploy` to deploy in github
+https://user-name.github.io/project-name/

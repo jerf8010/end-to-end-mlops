@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - end-to-end:
     - component: end-to-end/component.md
+    - data_ingestion: end-to-end/data_ingestion.md
     - config: end-to-end/config.md
     - constants: end-to-end/constants.md
     - entity: end-to-end/entity.md

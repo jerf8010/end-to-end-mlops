@@ -8,6 +8,8 @@ from mlProject.entity.config_entity import DataIngestionConfig
 
 
 class DataIngestion:
+    """Data ingestion component
+    """
     def __init__(self, config: DataIngestionConfig):
         self.config = config
 
